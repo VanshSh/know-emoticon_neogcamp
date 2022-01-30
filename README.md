@@ -2,7 +2,7 @@
 
 This is React based simple App which takes the emoji as an input from the given emojis and output its name.
 
-## [LIVE]()
+## [LIVE](https://knowemoticon.netlify.app/)
 
 ---
 
