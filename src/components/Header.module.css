@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  background-color: #eac04e;
+}
+
+.image {
+  width: 100px;
+  border-radius: 50%;
+}
+
+.header h1 {
+  font-family: Quintessential;
+  margin-left: 5px;
+  color: #473d5a;
+}

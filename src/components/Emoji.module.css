@@ -1,0 +1,37 @@
+.main {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.label {
+  font-size: 1.5em;
+  font-weight: bolder;
+  color: #eac04e;
+}
+
+.input {
+  border-color: #eac04e;
+  width: 70%;
+  border-radius: 5px;
+  text-align: center;
+  color: black;
+  padding: 1em;
+  margin: 2em;
+}
+
+.emojiHolder {
+  border-radius: 3px;
+  margin: 3em;
+}
+
+.emoji {
+  padding: 0.5em;
+  cursor: pointer;
+  width: 50px;
+  
+}
