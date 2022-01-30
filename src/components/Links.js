@@ -3,7 +3,7 @@ const Links = (props) => {
   return (
     <>
       <main className={styles.links}>
-        <a className={styles.code} href="#">
+        <a className={styles.code} href="https://github.com/VanshSh/know-emoticon_neogcamp">
           GitHub Code
         </a>
         <a className={styles.portfolio} href="#">
